@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/ericxl/ikon.svg?branch=master)](https://travis-ci.org/ericxl/ikon)
 
   A simple plain PNG image generator for prototyping. No need to go to Photoshop!
+  [API documentation](http://tj.github.com/commander.js/)
 
 ## Usage
 
