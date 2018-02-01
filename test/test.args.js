@@ -1,14 +1,9 @@
-var assert = require('assert'),
-    vows = require('vows'),
-    ikon = require('../');
+var expect    = require("chai").expect;
 
-
-vows.describe('ikon').addBatch({
-    'When performing serious calculations': {
-        topic: seriousCalculations.performSeriousCalculations(4),
-        'result should be valid': function (result) {
-            assert.isNumber(result);
-            assert.equal(result, 8);
-        }
-    }
-}).export(module);
+describe("Color Code Converter", function() {
+    describe("RGB to Hex conversion", function() {
+        it("converts the basic colors", function() {
+            expect(1).to.equal(1);
+        });
+    });
+});
