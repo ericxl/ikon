@@ -1,6 +1,6 @@
 # Ikon
 
-    A simple plain PNG image generator for prototyping. No need to go to Photoshop!
+  A simple plain PNG image generator for prototyping. No need to go to Photoshop!
 
 ## Usage
 
