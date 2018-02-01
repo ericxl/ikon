@@ -22,7 +22,12 @@ program
 
 program.parse(process.argv);
 
-
+exports.performSeriousCalculations = function (x) {
+    //
+    // Perform very serious calculations on very important data.
+    //
+    return 2 * x;
+};
 
 function makeImage(cmd){
     var options = program;
