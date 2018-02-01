@@ -1,0 +1,15 @@
+{
+  "name": "ikon",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Liang",
+
+  "dependencies": {
+    "commander": "^2.13.0",
+    "pngjs-image": "^0.11.7"
+  }
+}
